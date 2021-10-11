@@ -1,4 +1,4 @@
-#Cadrasto de funcionários
+# Cadrasto de funcionários
  - Exercicio proposto:
 <br>
 Montar um sistema financeiro onde você tem que inserir o cadastro de novos funcionários, a cada 3 funcionários inseridos, o salário de todos eles sobem 5%
